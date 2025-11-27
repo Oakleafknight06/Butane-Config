@@ -6,3 +6,4 @@ My Butane config for home Fedora CoreOS servers, based on secureblue example.
     - Add .container systemD files for my containers
     - Add ZFS storage configuration
     - Figure out how I copy my data on to the server in a repeatable fashion, without exposing/storing it online
+    - github action to make ignition on commit which changes butane file
