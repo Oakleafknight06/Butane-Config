@@ -8,7 +8,7 @@ passwd:
       password_hash: $y$j9T$JWDr6KjrNGued.Aywiyci0$qHP.4P/AH77vf/k5XDkbRq0nrXbJ1IBO1Nk6y7m5iP/
       ssh_authorized_keys:
         - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICot9MBqD3dhecA7kY9vkQRuLsO3ns7+BnfafmYQxL6I dfagg@dellblue
-	    - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIqSBS1390i4ToE7j2/1LmAsAgFhoSGBYfkOnh1F67pu dfagg@thinkypad 
+        - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIqSBS1390i4ToE7j2/1LmAsAgFhoSGBYfkOnh1F67pu dfagg@thinkypad 
 storage:
   files:
     - path: /opt/install_secureblue.sh
